@@ -2,3 +2,7 @@ emoji
 typing 
 vibrate 
 colour
+
+dark mode 
+videos call
+voice call
